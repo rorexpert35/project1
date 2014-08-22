@@ -42,6 +42,6 @@ gem 'spring',        group: :development
 
 
 
-
+gem 'bootstrap'
 gem 'debugger'
 
